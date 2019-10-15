@@ -120,3 +120,11 @@ In this course I hope to establish a solid understanding of data science that wi
 *From Andrew: It was really easy to read this, i didn't have to scroll to the right much. However, could you go into detail about what you think might excite and challenge you later in your career? Otherwise, great job.
 
 *From Braden: You answering in such a clear and straightforward way made your section very easy to read. Your descision to not go into great detail did make sense and did help keep your answers clear, however it also leads to some confusion about what exactly you mean. Specifically, what you hope to achieve in this course remains vague, and I think it could be improved by some detail about what you means by a "solid understanding"*
+
+
+
+
+
+
+Testing
+Testing
